@@ -10,6 +10,9 @@ char flip(char c) {
 }
 
 int main() {
+
+  /* This is a comment */
+
   int N = 100, i,j,m;
   char s[1500];
   int k, brk, flippingTimes;
