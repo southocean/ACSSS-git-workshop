@@ -13,7 +13,7 @@ int main() {
 
   /* This is a comment */
 
-  int N = 100, i,j,m;
+  int N = 1000, i,j,m;
   char s[1500];
   int k, brk, flippingTimes;
 
