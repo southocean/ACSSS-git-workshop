@@ -4,6 +4,7 @@
 #include <string.h>
 
 char flip(char c) {
+  // commenting
   if (c == '+') return '-';
   else return '+';
 }
